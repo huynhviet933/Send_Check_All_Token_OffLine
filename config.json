@@ -1,0 +1,25 @@
+{
+  "networks": [
+    {
+      "name": "ETH",
+      "rpc": "https://cloudflare-eth.com",
+      "chainId": 1,
+      "symbol": "ETH",
+      "tokens": []
+    },
+    {
+      "name": "BNB",
+      "rpc": "https://bsc-dataseed.binance.org/",
+      "chainId": 56,
+      "symbol": "BNB",
+      "tokens": []
+    },
+    {
+      "name": "OPN Testnet",
+      "rpc": "https://testnet-rpc.iopn.tech",
+      "chainId": 984,
+      "symbol": "OPN",
+      "tokens": []
+    }
+  ]
+}
